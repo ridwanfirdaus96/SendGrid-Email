@@ -9,7 +9,7 @@ require 'vendor/autoload.php';
 // initialize dotenv
 $dotenv = new Dotenv\Dotenv(__DIR__);
 $dotenv->load();
-//haha
+//hahaa
 $form = new Sendgrid\Email("Firman", "rhenka.firdaus@gmail.com");
 $subject = "Belajar kirim Email dengan API SendGrid";
 $to = new SendGrid\Email("Ridwan", "va.rhenka@gmail.com");
