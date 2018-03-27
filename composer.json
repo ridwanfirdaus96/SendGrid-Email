@@ -1,0 +1,17 @@
+{
+    "name": "ridwan/sendgrid-email",
+    "description": "Belajar menggunakan API sendiri untuk kirim email",
+    "type": "project",
+    "license": "MIT",
+    "minimum-stability": "beta",
+    "require": {
+        "sendgrid/sendgrid": "^6.0",
+        "vlucas/phpdotenv": "^2.4"
+    },
+    "authors": [
+        {
+            "name": "Ridwan Firdaus",
+            "email": "va.rhenka@gmail.com"
+        }
+    ]
+}
